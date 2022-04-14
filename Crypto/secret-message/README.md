@@ -18,4 +18,6 @@ The employees of both organizations passed Decoding 101 in high school, but fail
 <li>The decoded base64 string will output a Caesar Cipher encrypted string, decrypt it - https://www.dcode.fr/caesar-cipher</li>
 <li>Use the steghide command to unhide the hidden secret_message.txt file. Using the passphrase manchester_united_2022 to unlock the file. Command: steghide extract -sf Photo.jpg</li>
 </ol>
- Flag: jctf{QbxVLJrIbP}
+
+
+Flag: jctf{QbxVLJrIbP}
