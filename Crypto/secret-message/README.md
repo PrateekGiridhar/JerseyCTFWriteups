@@ -1,5 +1,7 @@
 <h1>secret-message</h1>
 
+200 points
+
 <h1>Challenge Text</h1>
 There are two bank heist organizations communicating by sending images of expensive assets to each other, could there be a secret message somewhere?
 Along with the images, they are sending the same secret_key.txt file with encoded text.
