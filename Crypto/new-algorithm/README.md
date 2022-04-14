@@ -1,5 +1,7 @@
 <h1>new-algorithm</h1>
 
+75 point
+
 <h1>Challenge Text</h1>
 
 On the first day of the job, a new cryptography intern is insisting to upper management that he developed a new encryption algorithm for the company to use for sensitive emails and should get a raise. 
