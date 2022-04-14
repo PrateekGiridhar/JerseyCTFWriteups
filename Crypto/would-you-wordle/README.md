@@ -11,4 +11,5 @@ Ron's Code
 
 <h1>Solution</h1>
 Solve the Wordle to get the Key = "thorn". Use the RC4 cipher (used by WEP) and the Key to decrypt the string.
+
 Flag: jctf{CryptoIsTheKeyToFun}
