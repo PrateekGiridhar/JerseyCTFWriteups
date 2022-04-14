@@ -1,4 +1,4 @@
-salad - 50 points
+<h1>salad</h1> - 50 points
 
 Challenge Text:
 
