@@ -1,5 +1,7 @@
 <h1>would-you-wordle</h1>
 
+250 points
+
 <h1>Challenge Text</h1>
 
 Someone left this secret text string and unfinished Wordle. Can you put them together to get the flag?
